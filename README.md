@@ -4,8 +4,21 @@
 
 - 物联网技能图谱
   - 服务端
+    - Web框架
+    - 数据库
+    - 消息队伍
   - 客户端
+    - 混合应用
+    - 原生应用
+    - 通讯
+      - 蓝牙通讯
+      - NFC
+      - WiFi
   - 适配层
+    - 物联网协议
+      - MQTT
+      - CoAP
+      - HTTP
   - 硬件核心(Hardware Core)
     - Controller(控制器)
       - CPU
